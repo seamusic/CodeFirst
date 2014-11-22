@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="Vatti.Life.WebUI.Global_asax" Language="C#" %>
